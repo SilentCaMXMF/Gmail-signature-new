@@ -13,20 +13,20 @@
             </h4>
             <h6 style="white-space:nowrap;font-size:14px; color:#999;line-height: 1;margin: 0;font-weight: 400;"><a
                     href="mailto:pedroocalado@gmail.com"
-                    style="white-space:nowrap;text-decoration: none; color: #999">pedroocalado@gmail.com</a><!-- | <span
+                    style="white-space:nowrap;text-decoration: none; color: #999">pedroocalado@gmail.com</a>{/* | <span
                     style="white-space:nowrap;text-decoration:none!important;color: #999!important">(561)
-                    420-9316</span>-->
+                    420-9316</span> */}
             </h6>
             <div style="white-space:nowrap;margin-top: 8px">
                 <a style="white-space:nowrap;display:inline-block;" href="https://github.com/SilentCaMXMF"
                     target="_blank">
                     <img style="white-space:nowrap;width: 32px;height:32px;"
-                        src="https://github.com/austenstone/email-signature/blob/main/GitHub-Mark-32px.png?raw=true">
+                        src="https://github.com/austenstone/email-signature/blob/main/GitHub-Mark-32px.png?raw=true" />
                 </a>
                 <a style="white-space:nowrap;display:inline-block;border-right: 1px solid #f1f1f1;padding-right: 5px"
                     href="https://www.linkedin.com/in/pedro-calado-33113926/" target="_blank">
                     <img style="white-space:nowrap;width: 32px;height:32px;"
-                        src="https://github.com/austenstone/email-signature/blob/main/linkedin_circle_color-32.png?raw=true">
+                        src="https://github.com/austenstone/email-signature/blob/main/linkedin_circle_color-32.png?raw=true"/>
                 </a>
             </div>
         </td>
