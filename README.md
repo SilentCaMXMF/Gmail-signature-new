@@ -38,9 +38,12 @@ You can modify:
 ```bash
 .
 ├── img/
-│ └── GitHub-Mark-32px.png
+│   ├── GitHub-Mark-32px.png
+│   ├── meCartoonDrumsResize.jpg          # ← Replaces the external profile image
+│   └── linkedin_circle_color-32.png      # ← Used in LinkedIn icon
 ├── index.html
 └── README.md
+
 
 ```
 
