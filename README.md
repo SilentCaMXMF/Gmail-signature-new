@@ -18,11 +18,12 @@ This repository contains a custom **HTML email signature** for use in Gmail, des
 ## 💡 How to Use
 
 1. **Open `index.html`** in your browser or code editor.
-2. **Copy the entire table** HTML content.
-3. Go to Gmail:
+2. **Run a preview of your `index.html`
+3. **Copy the entire table** HTML content.
+4. Go to Gmail:
    - Click ⚙️ → **See all settings** → **General** tab.
-   - Scroll to **Signature**, click **Create new**, and paste the HTML into the editor.
-4. Save changes.
+   - Scroll to **Signature**, click **Create new**, and paste the HTML content you copied from the live preview into the editor.
+5. Save changes.
 
 > ⚠️ **Important**: Ensure that all images are hosted on accessible, permanent URLs (like GitHub raw links or Imgbox).
 
