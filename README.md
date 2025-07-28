@@ -18,7 +18,7 @@ This repository contains a custom **HTML email signature** for use in Gmail, des
 ## 💡 How to Use
 
 1. **Open `index.html`** in your browser or code editor.
-2. **Run a preview of your `index.html`
+2. **Run a preview of your `index.html`** in the code editor.
 3. **Copy the entire table** HTML content.
 4. Go to Gmail:
    - Click ⚙️ → **See all settings** → **General** tab.
