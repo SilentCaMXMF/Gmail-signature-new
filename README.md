@@ -30,6 +30,7 @@ This repository contains a custom **HTML email signature** for use in Gmail, des
 ## 🛠️ Customization
 
 You can modify:
+
 - The profile picture by updating the `<img src="...">` link.
 - Text such as name, phone number, or job description.
 - Social profile icons and links.

@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpading="0" style="white-space:nowrap;width:440px!important;">
     <tr>
         <td style="white-space:nowrap;vertical-align:middle;width:113px">
-            <a href="https:./imgbox.com/xE3pcyGk" target="_blank"><img src="https://thumbs2.imgbox.com/8e/c3/xE3pcyGk_t.jpg" alt="image host"/></a>
+            <a href="https://silentcamxmf.github.io/" target="_blank"><img src="https://silentcamxmf.github.io/img/meCartoonDrumsResize.jpg" alt="image host"/></a>
                 </td>
         <td
             style="white-space:nowrap;font-family:Helvetica, Arial;padding-left: 10px;font-size: 14px;vertical-align:middle;white-space:nowrap">
@@ -26,7 +26,7 @@
                 <a style="white-space:nowrap;display:inline-block;border-right: 1px solid #f1f1f1;padding-right: 5px"
                     href="https://www.linkedin.com/in/pedro-calado-33113926/" target="_blank">
                     <img style="white-space:nowrap;width: 32px;height:32px;"
-                        src="https://github.com/SilentCaMXMF/Gmail-signature-new/blob/main/img/linkedin_circle_color-32.png?raw=true" width="28" height="28" alt="LinkedIn" style="border:none;"/>
+                        src="https://github.com/SilentCaMXMF/Gmail-signature-new/blob/main/img/linkedin_circle_color-32.png?raw=true" width="28" height="28" alt="LinkedIn" />
         
                 </a>
             </div>
