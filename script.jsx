@@ -21,12 +21,13 @@
                 <a style="white-space:nowrap;display:inline-block;" href="https://github.com/SilentCaMXMF"
                     target="_blank">
                     <img style="white-space:nowrap;width: 32px;height:32px;"
-                        src="https://github.com/austenstone/email-signature/blob/main/GitHub-Mark-32px.png?raw=true" />
+                        src="https://github.com/SilentCaMXMF/Gmail-signature-new/blob/main/img/GitHub-Mark-32px.png?raw=true" />
                 </a>
                 <a style="white-space:nowrap;display:inline-block;border-right: 1px solid #f1f1f1;padding-right: 5px"
                     href="https://www.linkedin.com/in/pedro-calado-33113926/" target="_blank">
                     <img style="white-space:nowrap;width: 32px;height:32px;"
-                        src="https://github.com/austenstone/email-signature/blob/main/linkedin_circle_color-32.png?raw=true"/>
+                        src="https://github.com/SilentCaMXMF/Gmail-signature-new/blob/main/img/linkedin_circle_color-32.png?raw=true" width="28" height="28" alt="LinkedIn" style="border:none;">
+        </a>"/>
                 </a>
             </div>
         </td>
