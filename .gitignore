@@ -1,0 +1,23 @@
+# Credentials
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Secrets
+secrets.json
+credentials.json
+*.secret
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
